@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_explore"
+            android:icon="@drawable/ic_menu_explore"
+            android:title="EXPLORE" />
+        <item
+            android:id="@+id/nav_applecation"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="APPLICATIONS" />
+        <item
+            android:id="@+id/nav_saved_application"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="SAVED APPLICATIONS" />
+        <item
+            android:id="@+id/nav_courses"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="COURSES" />
+        <item
+            android:id="@+id/nav_saved_courses"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="SAVED COURSES" />
+        <item
+            android:id="@+id/nav_study_group"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="STUDY GROUP" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

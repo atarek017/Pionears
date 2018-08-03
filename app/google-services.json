@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "189601040703",
+    "firebase_url": "https://pionears-b2aa8.firebaseio.com",
+    "project_id": "pionears-b2aa8",
+    "storage_bucket": "pionears-b2aa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189601040703:android:de313bd530e49f14",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.pionears"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189601040703-f3o74lp9ct7hb16ts4djhec9ga56bmj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwl8RgwZPJZ-4cXWqciipTgdKB4q4v5G4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
